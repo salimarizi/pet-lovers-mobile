@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "blank",
-    "slug": "blank",
+    "name": "pet-lovers-mobile",
+    "slug": "pet-lovers-mobile",
     "version": "1.0.0",
     "platforms": [
       "ios",
