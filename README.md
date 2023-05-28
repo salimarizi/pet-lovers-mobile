@@ -1,4 +1,16 @@
-# My Universal React Project
+# Pet Lovers Mobile
+
+## Description
+This project is about pet lovers that will list pet owner and the pets. Built with React Native and Expo.
+
+## Preview Page:
+### 1. Home Screen
+Home screen will show the list of owners
+![alt text](https://github.com/salimarizi/pet-lovers-mobile/blob/main/images/homescreen.jpeg?raw=true)
+
+### 2. Owner Screen
+Owner screen will show profile of the owner and also the list of owner's pets.
+![alt text](https://github.com/salimarizi/pet-lovers-mobile/blob/main/images/ownerscreen.jpeg?raw=true)
 
 <p>
   <!-- iOS -->
